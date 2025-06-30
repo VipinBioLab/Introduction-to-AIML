@@ -240,6 +240,16 @@
     ]
   },
   {
+    "objectID": "unit4.html",
+    "href": "unit4.html",
+    "title": "5  Unit 4: The Landscape of AI and Data Science",
+    "section": "",
+    "text": "This unit is designed to immerse you in the fundamental concepts, historical evolution, and the wide-ranging impact of Artificial Intelligence (AI) and Data Science (DS). We will explore what these fields entail, how they have developed over time, the core principles that underpin them, their transformative applications across various industries, and the diverse career opportunities they offer. By completing this unit, you will gain a comprehensive appreciation for the scope of AI and DS and understand their synergistic relationship. Our discussions will often refer to key texts such as “Artificial Intelligence: A Modern Approach” by Russell and Norvig (2016), “A First Course in Artificial Intelligence” by Khemani (2013), and “Artificial Intelligence by Example” by Rothman (2018) for practical illustrations.\n\n\n\n\nKhemani, Deepak. 2013. A First Course in Artificial Intelligence. McGraw Hill Education (India).\n\n\nRothman, Denis. 2018. Artificial Intelligence by Example: Develop Machine Intelligence from Scratch Using Real Artificial Intelligence Use Cases. Packt Publishing Ltd.\n\n\nRussell, Stuart J, and Peter Norvig. 2016. Artificial Intelligence: A Modern Approach. pearson.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Unit 4: The Landscape of AI and Data Science</span>"
+    ]
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",

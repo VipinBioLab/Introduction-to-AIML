@@ -15,6 +15,7 @@ book:
     - unit1.qmd
     - unit2.qmd
     - unit3.qmd
+    - unit4.qmd
     - references.qmd
 
 bibliography: references.bib
